@@ -21,4 +21,6 @@ Bring colors to life with the Multi Animation NeoPixel Controller! 🌈 Using th
 ---
 
 ## Circuit Diagram
-![Multianimation Circuit](./mini-piano-diagram.jpeg)
+![Multianimation Circuit](./multi_animation_controller_circuit_diagram.png)
+
+---
